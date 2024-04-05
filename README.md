@@ -1,8 +1,8 @@
 ![Header](./your-header-image-name.png)
 
-- 🔭 I’m currently working on Data Science projects in Crypto! 👨‍💻
-- 🌱 I’m currently learning with help from edx & coursera 🤓
-- 💬 Ask me about Crypto 🚀
+- 👨‍💻 I’m currently working on Data Science projects in Crypto!
+- 🌱 I’m currently learning with help from edx & coursera
+- 💬 Ask me about Crypto
 
 📫 How to reach me: benjamin.r.schellinger@gmail.com
 
