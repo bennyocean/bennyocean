@@ -1,6 +1,15 @@
+![Header](./your-header-image-name.png)
+
+- 🔭 I’m currently working on Data Science projects in Crypto! 👨‍💻
+- 🌱 I’m currently learning with help from edx & coursera 🤓
+- 💬 Ask me about Crypto 🚀
+
+📫 How to reach me: benjamin.r.schellinger@gmail.com
+
+  
+<!--
 ### Hi there 👋
 
-<!--
 **bennyocean/bennyocean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
