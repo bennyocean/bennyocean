@@ -1,12 +1,9 @@
 ![Header](./github-header-image.png)
 
 - 👨‍💻 I’m currently working on Data Science projects in Crypto!
-- 🔭 I’m looking to collaborate
 - 💬 Ask me about Blockchain & Crypto
-
-👨‍🔬 Check out my research on [google scholar](https://scholar.google.de/citations?user=c71Xi4IAAAAJ&hl=de) 
-
-📫 Get in touch via [Linkedin](https://www.linkedin.com/in/benjaminschellinger/) 
+- 👨‍🔬 Check out my research on [google scholar](https://scholar.google.de/citations?user=c71Xi4IAAAAJ&hl=de)
+- 📫 Get in touch via [Linkedin](https://www.linkedin.com/in/benjaminschellinger/) 
 
 
   
