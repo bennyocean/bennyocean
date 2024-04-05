@@ -1,10 +1,13 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 - 👨‍💻 I’m currently working on Data Science projects in Crypto!
-- 🌱 I’m currently learning with help from edx & coursera
-- 💬 Ask me about Crypto
+- 🔭 I’m looking to collaborate
+- 💬 Ask me about Blockchain & Crypto
 
-📫 How to reach me: benjamin.r.schellinger@gmail.com
+👨‍🔬 Check out my research on [google scholar](https://scholar.google.de/citations?user=c71Xi4IAAAAJ&hl=de) 
+
+📫 Get in touch via [Linkedin](https://www.linkedin.com/in/benjaminschellinger/) 
+
 
   
 <!--
