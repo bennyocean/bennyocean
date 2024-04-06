@@ -11,7 +11,7 @@
 - 🧠 **Continuous learner**, currently enhancing my **data science** skills.
 
 ### 🌟 My Philosophy <br>
-Driven by the conviction that **"The Truth is in Data,"** I am committed to rigorous analysis, believing firmly that **Data** is the key to profound insights.
+Driven by the conviction that *"The Truth is in Data"*, I am committed to rigorous analysis, believing firmly that data is the key to profound insights.
 
 ### 🎯 My Goal <br>
 To shape the future of **Finance & Technology** through **Data Science & Research**, enabling data-driven decision-making & fostering innovation.
