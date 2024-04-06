@@ -14,7 +14,7 @@
 Driven by the conviction that *"The Truth is in Data"*, I am committed to rigorous analysis, believing firmly that data is the key to profound insights.
 
 ### 🎯 My Goal <br>
-To shape the future of **Finance & Technology** through **Data Science & Research**, enabling data-driven decision-making & fostering innovation.
+To shape the future of **Finance & Technology** through data science & research, enabling data-driven decision-making & fostering innovation.
 
 ### 💬 Engage with Me
 - 👨‍🔬 Check out my research on [Google Scholar](https://scholar.google.com).
