@@ -1,14 +1,13 @@
 ![Header](./github-header-image_copy.png)
 
 # Hey, I'm Benjamin 👋
-<h4><i>Data Scientist & DeFi Researcher, leveraging data analytics & ML in crypto-finance projects.</i></h4>
+<h4><i>Data Scientist & DeFi Researcher, leveraging data analytics & ML in FinTech</i></h4>
 
 ### 🚀 About Me
 - 🎓 **Ph.D. in Financial Technology & Engineering**, designing & managing DeFi innovations.
-- 🏦 Over **10 years of professional experience** in the banking & finance sectors.
-- 🔗 Over **5 years of research experience** in the blockchain & crypto domains.
-- 📝 Author of **25+ publications** in renowned academic journals & practical outlets.
-- 🎓 **Educating** professionals & academics in blockchain, digital assets, & DeFi.
+- 🏦 **~10 years of professional experience** in finance & consulting organizations.
+- 🔗 **Extensive research experience** in blockchain, crypto, & DeFi.
+- 📝 Author of **25+ publications** in renowned academic & practitioner journals.
 - 🧠 **Continuous learner**, currently enhancing my **data science** skills.
 
 ### 🌟 My Philosophy <br>
