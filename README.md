@@ -1,4 +1,4 @@
-![Header](./github-header-image copy.png)
+![Header](./github-header-image_copy.png)
 
 <h3> 👨‍💻 Leveraging data analytics & ML in crypto-finance projects.</h3>
 
