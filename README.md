@@ -1,8 +1,8 @@
 ![Header](./github-header-image.png)
 
-👨‍💻 Leveraging **data analytics and ML** in **crypto & finance projects**.
+<h3> 👨‍💻 Leveraging data analytics & ML in crypto-finance projects.</h3>
 
-🚀 **About Me:**
+### 🚀 About Me
 - 🎓 **Ph.D. in Financial Technology & Engineering**, designing & managing DeFi innovations.
 - 🏦 Over **10 years of professional experience** in the banking & finance sectors.
 - 🔗 Over **5 years of research experience** in the blockchain & crypto domains.
@@ -10,14 +10,14 @@
 - 🎓 **Educating** professionals & academics in blockchain, digital assets, & DeFi.
 - 🧠 **Continuous learner**, currently enhancing my **data science** skills.
 
-🌟 **My Philosophy:** <br>
-Driven by the conviction that **"The truth is in the data,"** I am committed to rigorous analysis, believing firmly that **data** is the key to profound insights.
+### 🌟 My Philosophy <br>
+Driven by the conviction that **"The Truth is in Data,"** I am committed to rigorous analysis, believing firmly that **Data** is the key to profound insights.
 
-🎯 **My Goal:** <br>
-To shape the future of **finance and technology** through **data science and research**, enabling data-driven decision-making and fostering innovation.
+### 🎯 My Goal <br>
+To shape the future of **Finance & Technology** through **Data Science & Research**, enabling data-driven decision-making & fostering innovation.
 
-💬 **Engage with Me:**
-- Ask me about **blockchain & crypto**.
+### 💬 Engage with Me
+- 💬 Ask me about **blockchain & crypto**.
 - 👨‍🔬 Check out my research on [Google Scholar](https://scholar.google.com).
 - 📫 Get in touch via [LinkedIn](https://www.linkedin.com).
 
