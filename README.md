@@ -6,14 +6,15 @@
 - 🔗 Over **5 years of research experience** in the blockchain & crypto domains.
 - 📝 Author of **25+ publications** in renowned academic journals & practical outlets.
 - 🎓 **Educating** professionals & academics in blockchain, digital assets, & DeFi.
-- 🧠 **Continuous learner,** currently enhancing my data science skills**.
+- 🧠 **Continuous learner,** currently enhancing my **data science** skills.
 
 💬 **Engage with Me:**
-- Ask me about **Blockchain & Crypto**.
+- Ask me about **blockchain & crypto**.
 - 👨‍🔬 Check out my research on [Google Scholar](https://scholar.google.com).
 - 📫 Get in touch via [LinkedIn](https://www.linkedin.com).
 
-🌟 **Philosophy:**
+🌟 **My Philosophy:**
+/n
 **"The truth is in data."** Focused on thought leadership at the intersection of **finance, technology, & data analytics**, driving forward innovation in the **finance & crypto sectors**.
 
 <!--
