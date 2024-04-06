@@ -1,6 +1,7 @@
 ![Header](./github-header-image_copy.png)
 
-<h3> 👨‍💻 Leveraging data analytics & ML in crypto-finance projects.</h3>
+# Hey, I'm Benjamin 👋
+<h4><i>Data Scientist & DeFi Researcher, leveraging data analytics & ML in crypto-finance projects.</i></h4>
 
 ### 🚀 About Me
 - 🎓 **Ph.D. in Financial Technology & Engineering**, designing & managing DeFi innovations.
@@ -17,7 +18,6 @@ Driven by the conviction that **"The Truth is in Data,"** I am committed to rigo
 To shape the future of **Finance & Technology** through **Data Science & Research**, enabling data-driven decision-making & fostering innovation.
 
 ### 💬 Engage with Me
-- 💬 Ask me about **blockchain & crypto**.
 - 👨‍🔬 Check out my research on [Google Scholar](https://scholar.google.com).
 - 📫 Get in touch via [LinkedIn](https://www.linkedin.com).
 
