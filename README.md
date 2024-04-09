@@ -18,8 +18,8 @@
 To shape the future of **Finance & Technology** through data science & research, enabling data-driven decision-making & fostering innovation.
 -->
 ### Engage with Me
-- 👨‍🔬 Check out my research on [Google Scholar](https://scholar.google.com).
-- 📫 Get in touch via [LinkedIn](https://www.linkedin.com).
+- 👨‍🔬 Check out my research on [Google Scholar](https://scholar.google.com/citations?user=c71Xi4IAAAAJ&hl=de).
+- 📫 Get in touch via [LinkedIn](https://www.linkedin.com/in/benjaminschellinger/).
 
 <!--
 ### Hi there 👋
