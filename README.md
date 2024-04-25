@@ -5,7 +5,7 @@
 *Data Scientist & Researcher in the field of Blockchain, Crypto & Finance*</i></h3>
 
 ###  About Me
-- 🎓 **Ph.D. in Financial Technology & Engineering**, designing & managing DeFi innovations.
+- 🎓 **Ph.D. in Financial Technology & Engineering**, designing & managing digital assets.
 - 🏦 **~10 years of professional experience** in finance & consulting organizations.
 - 🔗 **Extensive research experience** in blockchain, crypto & DeFi.
 - 📝 Author of **25+ publications** in renowned academic & practitioner journals.
