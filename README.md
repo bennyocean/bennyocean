@@ -5,10 +5,10 @@
 *Data Scientist & ML Engineer, specializing in Blockchain, Crypto & Finance*</i></h3>
 
 ###  About Me
-🎓 Ph.D. in Information Systems Engineering.
-🏦 5+ years in finance & consulting.
-🔗 25+ publications in blockchain, crypto, & DeFi research.
-🧠 Recently mastered ML engineering.
+- 🎓 Ph.D. in Information Systems Engineering.
+- 🏦 5+ years in finance & consulting.
+- 🔗 25+ publications in blockchain, crypto, & DeFi research.
+- 🧠 Recently mastered ML engineering.
 
 ❤️ Passionate about programming, data analysis, and leveraging emerging technologies to innovate in finance.
 
