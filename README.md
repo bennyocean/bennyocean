@@ -1,22 +1,17 @@
 ![Header](./github-header-image4.png)
 
-## Hey, I'm Benjamin 
+## Hey, I'm Benjamin!
 
-*Data Scientist & Researcher in the field of Blockchain, Crypto & Finance*</i></h3>
+*Data Scientist & ML Engineer, specializing in Blockchain, Crypto & Finance*</i></h3>
 
 ###  About Me
-- 🎓 **Ph.D. in Financial Technology & Engineering**, designing & managing digital assets.
-- 🏦 **~10 years of professional experience** in finance & consulting organizations.
-- 🔗 **Extensive research experience** in blockchain, crypto & DeFi.
-- 📝 Author of **25+ publications** in renowned academic & practitioner journals.
-- 🧠 **Continuous learner**, currently enhancing my **data science** skills.
+🎓 Ph.D. in Information Systems Engineering.
+🏦 5+ years in finance & consulting.
+🔗 25+ publications in blockchain, crypto, & DeFi research.
+🧠 Recently mastered ML engineering.
 
-### My Philosophy <br>
-*"The Truth is in Data" -* I am committed to rigorous analysis and firmly believe that data is the key to profound insights.
-<!--
-### 🎯 My Goal <br>
-To shape the future of **Finance & Technology** through data science & research, enabling data-driven decision-making & fostering innovation.
--->
+❤️ Passionate about programming, data analysis, and leveraging emerging technologies to innovate in finance.
+
 ### Engage with Me
 - 👨‍🔬 Check out my research on [Google Scholar](https://scholar.google.com/citations?user=c71Xi4IAAAAJ&hl=de).
 - 📫 Get in touch via [LinkedIn](https://www.linkedin.com/in/benjaminschellinger/).
